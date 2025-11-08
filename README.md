@@ -12,14 +12,14 @@ Distinguer **attribut de classe** et **attribut d’instance** à travers un com
 
 ### 📜 Fichier principal :
 - `compteur_page.py`
-- `test_compteur_page.py`
+- `test.py`
 
 ### 🧠 Structure :
 ````
 Compteur de visites de pages/
 │
 ├── compteur_page.py
-├── test_compteur_page.py
+├── test.py
 
 ````
 ###Résultat visuel
@@ -55,7 +55,7 @@ Manipuler des **listes d’objets**, des **propriétés**, et la **recherche ins
 ### 📜 Fichier principal :
 - `contact.py`
 - `carnet.py`
-- `test_carnet.py`
+- `test.py`
 
 ### 🧠 Structure :
 ````
@@ -63,7 +63,7 @@ Carnet d’adresses minimal/
 │
 ├── contact.py
 ├── carnet.py
-├── test_carnet.py
+├── test.py
 ````
 ###Résultat visuel
 <div align="center"> <img src="image/Exercice3.jpg" alt="Résultat Exercice 3" width="1000"/> <p><em>Figure 3</em></p> </div>
@@ -74,14 +74,14 @@ Sécuriser l’accès aux attributs via des **propriétés** avec contrôle et c
 
 ### 📜 Fichier principal :
 - `cercle.py`
-- `test_cercle.py`
+- `test.py`
 
 ### 🧠 Structure :
 ````
 Calculatrice géométrique pour cercles/
 │
 ├── cercle.py
-├── test_cercle.py
+├── test.py
 
 ````
 ###Résultat visuel
@@ -93,14 +93,14 @@ Utiliser le mot-clé **`with`** et les méthodes magiques `__enter__` / `__exit_
 
 ### 📜 Fichier principal :
 - `journal.py`
-- `test_journal.py`
+- `test.py`
 
 ### 🧠 Structure :
 ````
 Journal de tâches avec gestion de contexte/
 │
 ├── journal.py
-├── test_journal.py
+├── test.py
 ├── journal.txt
 ````
 ###Résultat visuel
@@ -112,14 +112,14 @@ Illustrer les **méthodes statiques et de classe** pour la conversion EUR ↔ DH
 
 ### 📜 Fichier principal :
 - `convertisseur.py`
-- `test_convertisseur.py`
+- `test.py`
 
 ### 🧠 Structure :
 ````
 Convertisseur de devises/
 │
 ├── convertisseur.py
-├── test_convertisseur.py
+├── test.py
 ````
 ###Résultat visuel
 <div align="center"> <img src="image/Exercice6.jpg" alt="Résultat Exercice 6" width="1000"/> <p><em>Figure 6</em></p> </div>
